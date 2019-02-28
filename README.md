@@ -5,3 +5,10 @@
 
 
 Node.js module to interact with official [Telegram Bot API](https://core.telegram.org/bots/api). A bot token is **required** and can be obtained by talking to [@botfather](https://telegram.me/BotFather)
+
+Бот для Telegram парсящий цены на криптовалюты в списке с сайта coinmarketcap.com в обход работы API!
+
+
+Если хотите поддержать меня спасибо присылать вот сюда: 
+ETH:0x870a60d62480304d7bfaa25da0db3730fcbec580
+BTC:147pmNDXCNCgnYpKDp3mSB2wUKQsXx6T9Q
